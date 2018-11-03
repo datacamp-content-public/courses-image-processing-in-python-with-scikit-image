@@ -8,10 +8,72 @@
       }
     },
     {
-      "timing": 0.2397608578676301,
+      "timing": 0.02399673587320557,
       "state": {
         "indexh": 0,
         "indexf": 0
+      }
+    },
+    {
+      "timing": 0.169401516121232,
+      "state": {
+        "indexh": 1,
+        "indexf": -1
+      }
+    },
+    {
+      "timing": 0.2920311781559179,
+      "state": {
+        "indexh": 2,
+        "indexf": -1
+      }
+    },
+    {
+      "timing": 0.42331527434072047,
+      "state": {
+        "indexh": 3,
+        "indexf": -1
+      }
+    },
+    {
+      "timing": 0.6057526321833573,
+      "state": {
+        "indexh": 4,
+        "indexf": -1
+      }
+    },
+    {
+      "timing": 0.7298090035554453,
+      "state": {
+        "indexh": 5,
+        "indexf": -1
+      }
+    },
+    {
+      "timing": 0.7668904412932801,
+      "state": {
+        "indexh": 6,
+        "indexf": -1
+      }
+    },
+    {
+      "timing": 0.8196455752745407,
+      "state": {
+        "indexh": 7,
+        "indexf": -1
+      }
+    },
+    {
+      "timing": 0.8766859708343048,
+      "state": {
+        "indexh": 8,
+        "indexf": -1
+      }
+    },
+    {
+      "timing": 0.902353363115357,
+      "state": {
+        "indexh": 9
       }
     }
   ]
